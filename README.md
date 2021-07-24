@@ -1,1 +1,1 @@
-# Sea-Battle
+# Client-server console game 
