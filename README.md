@@ -1,5 +1,5 @@
 # Client-server console game 
 Interface:
-![](https://i.postimg.cc/nhL7SYWp/Screenshot-2021-07-24-171316.jpg)
-![](https://i.postimg.cc/15BwKYJv/Screenshot-2021-07-24-171423.jpg)
-![](https://i.postimg.cc/fTDYmhj3/Screenshot-2021-07-24-171507.jpg)
+![](https://github.com/Alterise/Sea-Battle/blob/master/images/sb1.jpg)
+![](https://github.com/Alterise/Sea-Battle/blob/master/images/sb2.jpg)
+![](https://github.com/Alterise/Sea-Battle/blob/master/images/sb3.jpg)
